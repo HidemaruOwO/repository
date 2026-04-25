@@ -4,9 +4,8 @@ A template that gathers the minimal structure of my repository.
 
 ## 🚀 Features
 
-- Modern `README.md`
-- `Apache 2.0` LICENSE
-- Modified `AGENTS.md`
+- Good-style `README.md`
+- Modified `AGENTS.md` for OpenCode
 
 <!-- ## 🛠 Installation -->
 
