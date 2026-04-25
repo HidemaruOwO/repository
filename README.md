@@ -73,6 +73,6 @@ This repository was created using the [MicroRepository](https://github.com/Hidem
 
 **Made with ❤️ by [HidemaruOwO](https://github.com/HidemaruOwO)**
 
-If the projects helps improve your quality of life, please ⭐ this repository!
+If the projects helps you improve your quality of life, please ⭐ this repository!
 
 </div>
